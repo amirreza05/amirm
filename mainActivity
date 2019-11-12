@@ -1,0 +1,5 @@
+package com.companyname.appname;
+import android.*;
+public void mainActivity extends Activity{
+
+}
